@@ -1,0 +1,26 @@
+body{
+    font-family: 'Spartan', sans-serif;
+  }
+  .btndiv {
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+}
+
+.card{
+    height: 500px;
+    transition: .5s;
+    color: #808080;
+}
+.p {
+    padding: 75px 0px;
+}
+.head{
+    background-color:#f6f9fc;
+}
+.card:hover{
+    background-color: blue;
+    color: white;
+}
